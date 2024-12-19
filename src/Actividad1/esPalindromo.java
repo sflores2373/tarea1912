@@ -22,7 +22,7 @@ public class esPalindromo {
 	       System.out.println("is " + s1 + " a palindrome? " + b1);
 	       System.out.println("is " + s2 + " a palindrome? " + b2);
 	       System.out.println("is " + s3 + " a palindrome? " + b3);
-	       System.out.println("is " + s4 + " a palindrome? " + b4);
+	       System.out.println("is " + s4 + " a palindrome? by Sergio Flores " + b4);
 
 
 	   }
